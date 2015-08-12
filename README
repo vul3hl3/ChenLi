@@ -1,0 +1,2 @@
+dbCreate.sql -> create db for CharlieWeb 
+CharlieWeb -> Using Spring MVC & Hibernate to build portfolio website
